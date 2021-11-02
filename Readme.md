@@ -15,3 +15,7 @@ Aprender novas tecnologias é sempre muito importante para o crescimento profiss
 ------------------------------------------------------------------
 
 Este é uma nova linha.
+
+------------------------------------------------------------------
+
+Agora, vou aprender a desfazer uma edição mal sucedida.
