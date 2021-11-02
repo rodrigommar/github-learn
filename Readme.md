@@ -19,3 +19,26 @@ Este é uma nova linha.
 ------------------------------------------------------------------
 
 Agora, vou aprender a desfazer uma edição mal sucedida.
+
+--------------------------Git e comandos inciais----------------------------------------
+
+git init
+git add
+git commit -m "comentário"
+git commit -am "comentário"
+git status
+git diff
+git diff --name-only
+
+
+----------------------------Git e comandos inciais---------------------------------------
+
+git log
+git log --author
+git log --decorate
+git shortlog
+git shortlog -sn
+git log --graph
+
+
+
